@@ -1,5 +1,6 @@
 ### Hi there, I am Ansly 👋
 <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
+<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">
 <!--
 **Ansly21/Ansly21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
