@@ -1,5 +1,4 @@
 <h1 align="left">Hi, I am Ansly 👋</h1>
-<h2 align="left">This is my University's account</h2>
 <h2 align="left">My main profile will now be here: https://github.com/Median21</h2>
 
 <h3 align="center">Languages and Tools:</h3>
